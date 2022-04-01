@@ -1,0 +1,6 @@
+C:\Users\Acer\OneDrive\เดสก์ท็อป\visul all job\LAB_UnitTest\MyClassLibrary1\bin\Debug\MyClassLibrary1.dll
+C:\Users\Acer\OneDrive\เดสก์ท็อป\visul all job\LAB_UnitTest\MyClassLibrary1\bin\Debug\MyClassLibrary1.pdb
+C:\Users\Acer\OneDrive\เดสก์ท็อป\visul all job\LAB_UnitTest\MyClassLibrary1\obj\Debug\MyClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\เดสก์ท็อป\visul all job\LAB_UnitTest\MyClassLibrary1\obj\Debug\MyClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\เดสก์ท็อป\visul all job\LAB_UnitTest\MyClassLibrary1\obj\Debug\MyClassLibrary1.dll
+C:\Users\Acer\OneDrive\เดสก์ท็อป\visul all job\LAB_UnitTest\MyClassLibrary1\obj\Debug\MyClassLibrary1.pdb
